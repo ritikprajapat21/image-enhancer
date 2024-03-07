@@ -12,7 +12,7 @@ Wants to enhance images, just upload it and let AI enhance it for you.
 Clone this repo:
 
 ```
-git clone <url>
+git clone https://github.com/ritikprajapat21/image-enhancer
 ```
 
 Change working directory to image-enhancer:
